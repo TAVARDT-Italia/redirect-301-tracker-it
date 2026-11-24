@@ -1,14 +1,13 @@
 # Verificatore di Reindirizzamenti HTTP 301/302 e Catene di Salti
 
 [![Verifica Reindirizzamenti](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/it/verifica-reindirizzamenti-301/)
-[![Giurisdizione](https://img.shields.io/badge/Giurisdizione-Italia-00C853.svg)](https://ag.tavardt.com/it/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Verifica tecnica di catene di redirect, rilevamento di loop infiniti e conservazione del ranking SEO.
 
-Sviluppato e mantenuto dalla divisione di architettura semantica e scansionabilita di **[TAVARDT Italia](https://ag.tavardt.com/it/)**.
+Sviluppato e mantenuto dalla divisione di architettura semantica e scansionabilita di **TAVARDT Italia**.
 
----
+***
 
 ## Funzionalita di Verifica Reindirizzamenti HTTP
 
@@ -18,7 +17,7 @@ Sviluppato e mantenuto dalla divisione di architettura semantica e scansionabili
 * **Controllo Protocollo Sicuro**: Verifica che non si verifichino passaggi intermedi non sicuri HTTP.
 * **Punteggio di Efficienza del Reindirizzamento**: Metrica quantitativa da 0 a 100 con passaggi tecnici di ottimizzazione.
 
----
+***
 
 ## Installazione ed Esecuzione
 
@@ -33,20 +32,20 @@ python redirect_tracker.py https://azienda.it
 Per generare il rapporto in formato strutturato JSON:
 
 ```bash
-python redirect_tracker.py https://azienda.it --json
+python redirect_tracker.py https://azienda.it -json
 ```
 
----
+***
 
 ## Diagnostica Completa sul Web
 
 Per audit approfonditi di percorsi di redirect:
 
-* **[Verifica Reindirizzamenti 301 Ufficiale](https://tools.tavardt.com/it/verifica-reindirizzamenti-301/)**
+* **Verifica Reindirizzamenti 301 Ufficiale**
 * **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
 
----
+***
 
 ## Consulenza in Migrazioni Web e SEO Tecnico
 
-Per progetti di migrazione e architettura web conformi a Standard W3C e Linee Guida IETF RFC 9110, contattare il team di **[TAVARDT Italia](https://ag.tavardt.com/it/contatti/)**.
+Per progetti di migrazione e architettura web conformi a Standard W3C e Linee Guida IETF RFC 9110, contattare il team di **TAVARDT Italia**.
