@@ -5,7 +5,7 @@
 
 Verifica tecnica di catene di redirect, rilevamento di loop infiniti e conservazione del ranking SEO.
 
-Sviluppato e mantenuto dalla divisione di architettura semantica e scansionabilita di **TAVARDT Italia**.
+Sviluppato e mantenuto dalla divisione di architettura semantica e scansionabilita di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://azienda.it -json
 Per audit approfonditi di percorsi di redirect:
 
 * **Verifica Reindirizzamenti 301 Ufficiale**
-* **[Portale Aziendale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Aziendale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza in Migrazioni Web e SEO Tecnico
 
-Per progetti di migrazione e architettura web conformi a Standard W3C e Linee Guida IETF RFC 9110, contattare il team di **TAVARDT Italia**.
+Per progetti di migrazione e architettura web conformi a Standard W3C e Linee Guida IETF RFC 9110, contattare il team di **TAVARDT**.
 
 ***
 
