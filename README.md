@@ -49,3 +49,7 @@ Per audit approfonditi di percorsi di redirect:
 ## Consulenza in Migrazioni Web e SEO Tecnico
 
 Per progetti di migrazione e architettura web conformi a Standard W3C e Linee Guida IETF RFC 9110, contattare il team di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
