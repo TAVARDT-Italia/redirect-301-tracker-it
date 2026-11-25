@@ -2,6 +2,7 @@
 
 [![Verifica Reindirizzamenti](https://img.shields.io/badge/TAVARDT-Redirect%20301-5b3cf5.svg)](https://tools.tavardt.com/it/verifica-reindirizzamenti-301/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Verifica tecnica di catene di redirect, rilevamento di loop infiniti e conservazione del ranking SEO.
 
@@ -57,6 +58,11 @@ Per progetti di migrazione e architettura web conformi a Standard W3C e Linee Gu
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Distribuito sotto Licenza MIT. Consultare il file [LICENSE](LICENSE) per maggiori informazioni.
 
 ***
 
